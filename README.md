@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 
 
-<!--
-**Sasha-xyz/Sasha-xyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sasha**, an aspiring developer with a curiosity for technology, creativity, and building things through code.
 
-Here are some ideas to get you started:
+I'm currently learning programming and exploring the world of software development. I'm working with Python, JavaScript, HTML, and CSS, while gradually improving my problem-solving and development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm fascinated by how technology turns ideas into real products. I enjoy experimenting with code, exploring new tools, and creating projects that challenge me to think differently.
+
+Outside of coding, I'm interested in technology, business, creativity, and the possibilities of building something meaningful from an idea.
+
+### Let's connect!
+
+GitHub: [Sasha-xyz](https://github.com/Sasha-xyz)
+
+
